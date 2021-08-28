@@ -1,9 +1,11 @@
 package ola_mundo;
 
+import java.util.Scanner;
+
 public class Eclipse_Novo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner entrada=new Scanner(System.in);
 
 	}
 
